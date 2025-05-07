@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if site.title %}{{ site.title | escape }}{% endif %}{% if page.title %} – {{ page.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="assets/style-20.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+</head>
+<body>
+
+  <header>
+    <aside>
+      <h1>TopoInVis 2024</h1>
+    </aside>
+    <article>
+      <h2>
+        <b><span>IEEE Workshop on</span>
+        <span>Topological Data Analysis and Visualization</span></b><br />
+        <span>in conjunction with IEEE VIS 2024,</span>
+        <span>Florida, USA</span>
+      </h2>
+      <img id="ieee-logo" src="assets/logo-ieee.png" />
+    </article>
+  </header>
+
+  <main>
+    <aside>
+      <nav>
+        <h1>Menu</h1>
+        <ul>
+          {% for link in site.navigation %} 
+          {% assign current = nil %} 
+          {% if page.url contains link.url %} {% assign current = 'current'%} {% endif %}
+          <li class="{{ current }}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+          <li>
+            <a href="mailto:topoinvis@ieeevis.org?cc=topoinvis-chairs@googlegroups.com&subject=TopoInVis 2024:">Contact</a>
+          </li>
+        </ul>
+      </nav>
+      <hr />
+      {% capture my_include %}{% include dates.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+      <hr />
+      <nav id="archive">
+        <h1>TopoInVis Archive</h1>
+        <ul>
+	 <li><a href="https://topoinvis-workshop.github.io/2023/" target="_blank">2023</a></li>
+	  <li><a href="https://topoinvis-workshop.github.io/2022/" target="_blank">2022</a></li>
+          <li><a href="https://topoinvis-workshop.github.io/2019/" target="_blank">2019</a></li>
+          <li><a href="https://fj.ics.keio.ac.jp/topoinvis/" target="_blank">2017</a></li>
+          <li><a href="https://vis.uni-kl.de/topoinvis/" target="_blank">2015</a></li>
+          <li><a href="https://www.sci.utah.edu/topoinvis13/" target="_blank">2013</a></li>
+          <li><a href="http://www.topoinvis2011.ethz.ch/" target="_blank">2011</a></li>
+          <li><a href="http://pascucci.org/topoinvis2009/" target="_blank">2009</a></li>
+          <li><a href="https://www.informatik.uni-leipzig.de/bsv/topoinvis07/" target="_blank">2007</a></li>
+          <li><a href="https://old.vrvis.at/topo-in-vis/2005/" target="_blank">2005</a></li>
+        </ul>
+      </nav>
+    </aside>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <aside>
+      Last update: Feb 15th, 2024
+<!--       {{ page.last_modified_at | date: '%b %e, %Y' }} -->
+    </aside>
+    <article>
+      <p>
+        © Topological Data Analysis and Visualization (TopoInVis at IEEE VIS 2024)
+      </p>
+    </article>
+  </footer>
+
+</body>
+
+</html>
