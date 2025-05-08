@@ -42,11 +42,11 @@ The accepted posters will be presented at the main poster event at VIS.
 
 ## Important Dates
 
-* June 14, 2024: abstract deadline for full papers
-* <del>June 21, 2024</del> June 28, 2024: submission deadline for full papers
-* July 31, 2024: author notification
-* <del>August 7, 2024</del> August 31, 2024: submission deadline for posters
-* October 14, 2024, afternoon: Workshop at IEEE VIS
+* June 14, 2025: abstract deadline for full papers
+* June 30, 2025: submission deadline for full papers
+* July 31, 2025: author notification
+* August 31, 2025: submission deadline for posters/lightning talks
+* TBD: Workshop at IEEE VIS
   
 All deadlines are in Anywhere on Earth (AoE) time zone.
 
