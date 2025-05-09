@@ -9,7 +9,7 @@ title: Home
 Topological methods have become, over the last few years, one of the most exciting research fields in modern mathematics
 and provide fundamental tools for the extraction and analysis of subtle structural patterns in complex data. 
 It has been successfully applied in a variety of application fields, including 
-quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, 
+quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, medical imaging, 
 biology, and data science. In particular, the genericity, efficiency, and robustness 
 of topological methods have made them particularly well suited for the multi-scale, 
 interactive analysis and visualization of the structural information of data.
