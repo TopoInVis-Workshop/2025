@@ -9,7 +9,7 @@ Paper Submissions
 Author Notifications
 : July 31, 2025
 
-Posters/lightning talks
+Posters
 : August 31, 2025
 
 ## Symposium
