@@ -11,7 +11,7 @@ Despite their rising mainstream popularity, topological methods still face a num
 
 The IEEE VIS Workshop on Topological Data Analysis and Visualization aims to be an inclusive forum for the fast dissemination of the latest results in theory, algorithms, and applications of topological methods for the interactive and visual analysis of data. This workshop is open to members of the visualization community interested in topological methods and to experts in topological methods from other communities willing to experiment with interactive and visual applications.
 
-The workshop welcomes submissions of both **full-length papers** and **posters**. The accepted papers will be presented during the workshop, and the accepted posters will be presented at the main poster event at VIS and give a **lightning talk** during the workshop.
+The workshop welcomes submissions of both **full-length papers** and **posters**. The accepted papers will be presented during the workshop, and the accepted posters will be presented at the main poster event at VIS during the workshop.
 
 ## Scope
 
