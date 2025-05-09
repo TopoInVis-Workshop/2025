@@ -28,7 +28,7 @@ series, with the goal of being more diverse (in terms of applications) and inclu
 community potentially interested in topological methods, or experts in topological methods 
 from other communities willing to experiment with interactive and visual applications.
 
-Previously nine successful workshops have taken place in this workshop series: 
+Previously eleven successful workshops have taken place in this workshop series: 
 Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013, 
 Germany in 2015, Japan in 2017, Sweden in 2019, USA in 2022, Australia in 2023, USA in 2024. This is the fourth workshop 
 to be held in conjunction with IEEE VIS.
