@@ -10,7 +10,7 @@ Author Notifications
 : July 31, 2025
 
 Posters/lightning talks
-: August 31, 2024
+: August 31, 2025
 
 ## Symposium
 
