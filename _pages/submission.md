@@ -29,8 +29,4 @@ The poster submission portal is now open! To submit, go to the [PCS submission p
 Poster contributions should adhere to the [IEEE VIS Guidelines](https://ieeevis.org/year/2025/info/call-participation/posters). While VIS has no specific formatting requirements, posters can be no larger than size A0 (841 x 1189 mm / 33.1 x 46.8 inches) and must be in a portrait orientation. The accepted posters will be presented at the main poster event at VIS and will feature a lightning talk during the workshop.
 
 
-## Abstract Submission for Early Career Lightning Talks
-
-For submission of abstracts for early-career lightning talks,  please follow [this link](https://forms.gle/21SKStEjqUTUC1WL6) to submit the abstract and answer a few questions about yourself.
-
 
