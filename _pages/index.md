@@ -6,8 +6,8 @@ title: Home
 # TopoInVis 2025 - Topological Data Analysis and Visualization
 
 
-Topological methods have become, over the last few years, an established 
-framework for the extraction and analysis of subtle structural patterns in complex data. 
+Topological methods have become, over the last few years, one of the most exciting research fields in modern mathematics
+and provide fundamental tools for the extraction and analysis of subtle structural patterns in complex data. 
 It has been successfully applied in a variety of application fields, including 
 quantum chemistry, astrophysics, fluid dynamics, combustion, material sciences, 
 biology, and data science. In particular, the genericity, efficiency, and robustness 
