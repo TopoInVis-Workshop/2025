@@ -41,6 +41,9 @@ Raghavendra Sridharamurthy
 Roxana Bujack (co-chair)
 : Los Alamos National Laboratory
   
+Julien Tierny (co-chair)
+: Sorbonne Universite
+  
 Guoning Chen
 : University of Houston
 
@@ -55,9 +58,6 @@ Vijay	Natarajan
 
 Filip Sadlo
 : Heidelberg University
-  
-Julien Tierny (co-chair)
-: Sorbonne Universite
 
 Bei Wang
 : University of Utah
