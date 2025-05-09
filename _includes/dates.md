@@ -12,6 +12,6 @@ Author Notifications
 Posters
 : August 31, 2025
 
-## Symposium
+## TopoInVis Workshop
 
-**November 2-7, 2025 (TBD)**
+**Half Day during November 2-7, 2025 (TBD)**
