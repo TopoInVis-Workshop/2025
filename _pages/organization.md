@@ -15,34 +15,30 @@ title: Organization
 Divya Banesh
 : Los Alamos National Laboratory
 
-
-Guoning Chen
-: University of Houston
+Federico Iuricich
+: Clemson University
 
 ### Paper Chairs
 
-Federico Iuricich
-: Clemson University
+Tobias Günther
+: Friedrich-Alexander-Universität Erlangen-Nurnberg
 
 Yue Zhang
 : Oregon State University 
   
-### Communications Chair
+### Communications Chairs
   
 Lin Yan
 : Iowa State University
+
+Raghavendra Sridharamurthy
+: International Institute of Information Technology Hyderabad
 </div>
 
 <div class="right">
 ## Steering Committee
-  
-Bei Wang (chair)
-: University of Utah
 
-Paul Rosen (co-chair)
-: University of Utah
-
-Roxana Bujack
+Roxana Bujack (co-chair)
 : Los Alamos National Laboratory
   
 Guoning Chen
@@ -52,7 +48,7 @@ Leila De Floriani
 : University of Maryland
 
 Tobias Günther
-: Friedrich-Alexander-Universität
+: Friedrich-Alexander-Universität Erlangen-Nurnberg
   
 Vijay	Natarajan
 : Indian Institute of Science, Bangalore
@@ -60,84 +56,23 @@ Vijay	Natarajan
 Filip Sadlo
 : Heidelberg University
   
-Julien Tierny
+Julien Tierny (co-chair)
 : Sorbonne Universite
+
+Bei Wang
+: University of Utah
 
 </div>
 <div class="left">
 ## Program Committee
 
-Roxana Bujack
-: Los Alamos National Laboratory
-  
-Hamish Carr
-: University of Leeds
-
-Leila De Floriani
-: The University of Maryland
-  
-Ulderico Fugacci
-: National Research Council
-
-Tobias Günther
-: University of Erlangen–Nuremberg
-  
-Hanqi Guo
-: Ohio State University
-  
-Ingrid Hotz
-: Linköping University
-  
-Wiebke Köpp
-: Lawrence Berkeley National Laboratory
-
-Vitaliy Kurlin
-: University of Liverpool
-
-Talha Bin Masood
-: Linköping University
-
-Vijay	Natarajan
-: Indian Institute of Science, Bangalore
+TBD
 
 </div>
   
 <div class="right">
 ## &nbsp;
 
-Vanessa Robins
-: Australian National University
-  
-Martina Scolamiero
-: KTH Royal Institute of Technology
-
-Jaya Sreevalsan-Nair
-: International Institute of Information Technology
-  
-Raghavendra Sridharamurthy
-: Univeristy of Utah
-  
-Holger Theisel
-: University of Magdeburg
-  
-Julien Tierny
-: Sorbonne Universite
-
-Hubert Wagner
-: University of Florida
-  
-Bei Wang 
-: University of Utah
- 
-Tino Weinkauf
-: KTH Royal Institute of Technology
-  
-Alexander Wiebel
-: Hochschule Worms University of Applied Sciences 
-  
-Eugene Zhang
-: Oregon State University
- 
 </div>
 
 
