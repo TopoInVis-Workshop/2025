@@ -98,6 +98,12 @@ Jonas Lukasczyk
  
 Talha Bin Masood
 : Linköping University
+
+
+</div>
+  
+<div class="right">
+## &nbsp;
  
 Vijay Natarajan
 : Indian Institute of Science, Bangalore
