@@ -66,7 +66,68 @@ Bei Wang
 <div class="left">
 ## Program Committee
 
-TBD
+Roxana Bujack
+: Los Alamos National Laboratory
+ 
+Hamish Carr
+: University of Leeds
+ 
+Guoning Chen
+: University of Houston
+ 
+Leila De Floriani
+: University of Maryland
+ 
+Harish Doraiswamy
+: Microsoft Research
+ 
+Ulderico Fugacci
+: National Research Council
+ 
+Christoph Garth
+: University of Kaiserslautern
+ 
+Ingrid Hotz
+: Linköping University
+ 
+Wiebke Köpp
+: Lawrence Berkeley National Laboratory
+ 
+Jonas Lukasczyk
+: University of Kaiserslautern
+ 
+Talha Bin Masood
+: Linköping University
+ 
+Vijay Natarajan
+: Indian Institute of Science, Bangalore
+ 
+Yu Qin
+: Tulane University
+ 
+Paul Rosen
+: University of Utah
+ 
+Martina Scolamiero
+: KTH Royal Institute of Technology
+ 
+Raghavendra Sridharamurthy
+: International Institute of Information Technology Hyderabad
+ 
+Julien Tierny
+: Sorbonne Universite
+ 
+Hubert Wagner
+: University of Florida
+ 
+Tino Weinkauf
+: KTH Royal Institute of Technology
+ 
+Alexander Wiebel
+: Hochschule Worms University of Applied Sciences
+ 
+Eugene Zhang
+: Oregon State University
 
 </div>
   
