@@ -108,8 +108,8 @@ Talha Bin Masood
 Vijay Natarajan
 : Indian Institute of Science, Bangalore
  
-Yu Qin
-: Tulane University
+Yu (Demi) Qin
+: National Renewable Energy Laboratory
  
 Paul Rosen
 : University of Utah
