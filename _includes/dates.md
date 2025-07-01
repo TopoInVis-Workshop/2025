@@ -14,4 +14,4 @@ Posters
 
 ## TopoInVis Workshop
 
-**Half Day during November 2-7, 2025 (TBD)**
+**November 2, 2025, morning**
