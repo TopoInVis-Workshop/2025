@@ -46,7 +46,7 @@ The accepted posters will be presented at the main poster event at VIS.
 * June 30, 2025: submission deadline for full papers
 * July 31, 2025: author notification
 * August 31, 2025: submission deadline for posters
-* TBD: Workshop at IEEE VIS
+* November 2, 2025, morning: Workshop at IEEE VIS
   
 All deadlines are in Anywhere on Earth (AoE) time zone.
 
