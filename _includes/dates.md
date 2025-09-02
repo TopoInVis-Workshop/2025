@@ -10,7 +10,7 @@ Author Notifications
 : July 31, 2025
 
 Posters
-: August 31, 2025
+: <del>August 31, 2025</del> September 2, 2025
 
 ## TopoInVis Workshop
 
