@@ -23,7 +23,7 @@ title: Accepted Papers/Posters
 : Elena Farahbakhsh Touli, Talha Bin Masood
 
 6. Topology Aware Neural Interpolation of Scalar Fields
-:Mohamed Kissi, Keanu Sisouk, Joshua A Levine, Julien Tierny
+: Mohamed Kissi, Keanu Sisouk, Joshua A Levine, Julien Tierny
 
 7. Structural Uncertainty Visualization of Morse Complexes for Time-Varying Data Prediction
 : Weiran Lyu, Saumya Gupta, Chao Chen, Bei Wang
