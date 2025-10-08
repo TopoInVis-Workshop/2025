@@ -7,10 +7,9 @@ title: Awards
 
 ## Best paper award
 
-TBD
+- **Robust Geometric Predicates for Bivariate Computational Topology**,
+_Petar Hristov, Ingrid Hotz, Talha Bin Masood_
 
-## Honorable mention awards
 
-TBD
 
 
