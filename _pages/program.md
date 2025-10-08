@@ -36,7 +36,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
            <br/>
         </li>
         <li>
-           Comparing Different Merge Tree-Based Tracking Methods for Time-Varying Scalar Fields
+           A Comparative Study of Different Edit Distance-Based Methods for Feature Tracking using Merge Trees on Time-Varying Scalar Fields
            <br><i>Son Le Thanh, Tino Weinkauf</i>
            <br/>
         </li>
