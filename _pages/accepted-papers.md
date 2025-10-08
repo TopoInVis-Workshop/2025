@@ -34,7 +34,7 @@ title: Accepted Papers/Posters
 9. Lagrangian Simulation Volume-Based Contour Tree Simplification
 : Domantas Dilys, Hamish Carr, Steven Boeing
 
-10. Comparing Different Merge Tree-Based Tracking Methods for Time-Varying Scalar Fields
+10. A Comparative Study of Different Edit Distance-Based Methods for Feature Tracking using Merge Trees on Time-Varying Scalar Fields
 : Son Le Thanh, Tino Weinkauf
 
 11. Tracking Low-Level Cloud Systems with Topology
