@@ -42,7 +42,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
         </li>
         <li>
            Structural Uncertainty Visualization of Morse Complexes for Time-Varying Data Prediction
-           <br><i>Weiran Lyu, Saumya Gupta, Chao Chen, Bei Wang</i>
+           <br><i>Weiran Lyu, Saumya Gupta, Chao Chen, <b>Bei Wang</b></i>
            <br/>
         </li>
         <li>
@@ -69,7 +69,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
         </li>
         <li>
            Efficient Heuristic Algorithms for Interleaving Distance between Merge Trees
-           <br><i>Elena Farahbakhsh Touli, Talha Bin Masood</i>
+           <br><i><b>Elena Farahbakhsh Touli</b>, Talha Bin Masood</i>
            <br/>
         </li>
         <li>
@@ -123,7 +123,7 @@ TBD
       <ul>
         <li>
            Robust Geometric Predicates for Bivariate Computational Topology
-           <br><i>Petar Hristov, Ingrid Hotz, Talha Bin Masood </i>
+           <br><i><b>Petar Hristov</b>, Ingrid Hotz, Talha Bin Masood </i>
            <br/>
         </li>
         <li>
@@ -133,7 +133,7 @@ TBD
         </li>
         <li>
            Topology-Aware Volume Fusion for Spectral Computed Tomography via Histograms and Extremum Graph
-           <br><i>Mohit Sharma, Emma Nilsson, Martin Falk, Talha Bin Masood, Lee Jollans, Anders Persson, Tino Ebbers, Ingrid Hotz</i> 
+           <br><i><b>Mohit Sharma</b>b, Emma Nilsson, Martin Falk, Talha Bin Masood, Lee Jollans, Anders Persson, Tino Ebbers, Ingrid Hotz</i> 
            <br/>
         </li>
       </ul>
