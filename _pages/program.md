@@ -32,7 +32,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
       <ul>
           <li>
            Tracking Low-Level Cloud Systems with Topology
-           <br><i>Mingzhe Li, Dwaipayan Chatterjee, Franziska Glassmeier, Fabian Senf, Bei Wang</i>
+           <br><i>Mingzhe Li, Dwaipayan Chatterjee, Franziska Glassmeier, Fabian Senf, <b>Bei Wang</b></i>
            <br/>
         </li>
         <li>
