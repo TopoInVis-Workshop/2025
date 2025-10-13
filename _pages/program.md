@@ -79,7 +79,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
         </li>
         <li>
           Tracking the Spatiotemporal Spread of the Ohio Overdose Epidemic with Topological Data Analysis
-           <br><i>Nicholas A Bermingham, David White, Nathan Willey</i>
+           <br><i>Nicholas A Bermingham, David White, <b>Nathan Willey</b></i>
            <br/>
         </li>
       </ul>
