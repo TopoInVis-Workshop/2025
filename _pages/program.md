@@ -104,7 +104,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
 
 _Professor Herbert Edelsbrunner, Institute of Science and Technology Austria_
 
-<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Herbert.jpg" />
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/Herbert2.jpg" />
 <b>Abstract:</b> Advances in spatial biology motivate the extension of persistent homology to colored data. The computed information is expressed in a table of six multisets in the plane, referred to as the 6-pack of chromatic persistence diagrams. Independently, crystalline materials motivate the generalization of persistent homology to periodic data, and we make first steps in this direction by annotating the merge tree of the quotient with monomials, whose degree and coefficients encode the growth rate and the density of the connected components.
 
 <b>Acknowledgements:</b> This is joint work with Sebastiano Cultrera, Ondrej Draganov, Morteza Saghafian, and Teresa Heiss.
