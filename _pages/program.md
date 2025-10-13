@@ -47,7 +47,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
         </li>
         <li>
            Topology Aware Neural Interpolation of Scalar Fields
-           <br><i>Mohamed Kissi, Keanu Sisouk, Joshua A Levine, Julien Tierny</i>
+           <br><i><b>Mohamed Kissi</b>, Keanu Sisouk, Joshua A Levine, Julien Tierny</i>
            <br/>
         </li>
       </ul>
