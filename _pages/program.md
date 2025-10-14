@@ -127,7 +127,7 @@ _Professor Herbert Edelsbrunner, Institute of Science and Technology Austria_
         </li>
         <li>
            Featurizing Relative Positioning of Isosurface Components from Two Scalar Fields
-           <br><i>Akito Fujii, Kenji Ono, Daisuke Sakurai</i> 
+           <br><i><b>Akito Fujii</b>, Kenji Ono, Daisuke Sakurai</i> 
            <br/>
         </li>
         <li>
