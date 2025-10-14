@@ -74,7 +74,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
         </li>
         <li>
            GASP: Gradient-Aware Shortest Path Algorithm for Boundary-Confined 3D Reeb Graph Visualization
-           <br><i>Sefat E Rahman, Tushar M. Athawale, Paul Rosen</i>
+           <br><i>Sefat E Rahman, Tushar M. Athawale, <b>Paul Rosen</b></i>
            <br/>
         </li>
         <li>
