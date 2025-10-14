@@ -64,7 +64,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
       <ul>
         <li>
            Lagrangian Simulation Volume-Based Contour Tree Simplification
-           <br><i>Domantas Dilys, Hamish Carr, Steven Boeing</i>
+           <br><i><b>Domantas Dilys</b>, Hamish Carr, Steven Boeing</i>
            <br/>
         </li>
         <li>
