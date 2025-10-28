@@ -60,7 +60,7 @@ Venue: on line @ [VIS](https://ieeevis.org/year/2025/welcome)
     <td>9:50am &ndash; 10:30am</td>
     <td>
       <h4>Paper Session 2: Graphs and Trees</h4>
-      (Session Chair: TBD)
+      (Session Chair: Bei Wang)
       <ul>
         <li>
            Lagrangian Simulation Volume-Based Contour Tree Simplification
